@@ -1,0 +1,14 @@
+ {
+  "name": "this-private-access",
+  "version": "1.0.0",
+  "description": "THS private access portal",
+  "private": true,
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

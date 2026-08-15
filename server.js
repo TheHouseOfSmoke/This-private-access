@@ -14,7 +14,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Constants
 const ACCESS_CODE = "THS2026";
-const TELEGRAM_LINK = "https://t.me/YOUR_TELEGRAM_LINK";
+const TELEGRAM_LINK = "https://t.me/+yDXeTcUr6k1jYzlk";
 const MAX_ATTEMPTS = 3;
 
 // In-memory store for attempt tracking (use Redis in production)
